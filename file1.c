@@ -5,6 +5,7 @@ int main(){
 	int b = 41;
 
 	sub(a,b);
+	sub(32, 10);
 
 }
 
